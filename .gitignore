@@ -2,6 +2,7 @@ images
 gen_images
 train_images
 data
+__pycache__
 
 *.png
 *.pt
